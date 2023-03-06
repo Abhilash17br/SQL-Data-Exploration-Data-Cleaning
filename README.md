@@ -45,3 +45,10 @@ All datasets exist within the pizza_runner database schema - be sure to include 
 8.How many pizzas were delivered that had both exclusions and extras?  
 9.What was the total volume of pizzas ordered for each hour of the day?  
 10.What was the volume of orders for each day of the week?  
+
+
+## DATA CLEANING  : Nashville Housing Data
+
+*The Nashville Housing Data was downloaded from Kaggle website and was Cleaned for Analysisthrough Sql.  
+Standardizing the Date, Populating the Address, Breaking down addrerss into Country, city and States,Checking out Various Categorical fiels to make sure they are good for Analysis,Removing Duplicates,Removing Unused or Unwanted Fields, Etc...*
+
